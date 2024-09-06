@@ -1,4 +1,6 @@
-# This Grade Portal implements File IO, Thread Concurrency, and SQL/JDBC. 
+# Grade Portal 
+
+This Grade Portal implements Java, SQL, File IO, Thread Concurrency, and SQL/JDBC. 
 I used Netbeans and MySQL Workbench
 
 It is a student grade portal that supports both student and professor log-ins. If a student logs in,
